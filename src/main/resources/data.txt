@@ -1,0 +1,14 @@
+{
+"email": "kravchenkonikita@gmail.com",
+"imageUrl": "http://yandex.by/images/search?from=tabbar&text=img&pos=6&img_url=https%3A%2F%2Fpic.onlinewebfonts.com%2Fsvg%2Fimg_159991.png&rpt=simage&lr=157",
+"jobTitle": "JavaScript",
+"name": "Nikita Kravchenko",
+"phone": "+375445652198"
+}
+{
+"email": "kravchenkokirill@gmail.com",
+"imageUrl": "http://yandex.by/images/search?from=tabbar&text=img&pos=0&img_url=https%3A%2F%2Flh3.googleusercontent.com%2F_X4oEpRu4O-nv0KuFwJQV2zX5SLuwRg9fIM1_-Q29L50zDgRd2eLdEr0ZmLVk_cPLA4&rpt=simage&lr=157",
+"jobTitle": "ASP.NET",
+"name": "Kirill Kravchenko",
+"phone": "+375445652197"
+}
